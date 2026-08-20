@@ -7,11 +7,11 @@ const teamData = [
   {
     category: "Leadership",
     members: [
-      { id: "satyajit", name: "Satyajit Chakrabarti", role: "Patron", linkedin: "#", about: "Guiding the vision and strategic direction of TEDxIEM Salt Lake." },
-      { id: "prabir", name: "Prabir Kumar Das", role: "Curator", linkedin: "#", about: "Curating ideas that spark profound local and global conversations." },
-      { id: "samapika", name: "Samapika Das Biswas", role: "Curator", linkedin: "#", about: "Shaping the narrative and curating transformative ideas." },
-      { id: "anubhab", name: "Anubhab Ray", role: "Faculty Coordinator", linkedin: "#", about: "Bridging the gap between institutional support and student execution." },
-      { id: "riya", name: "Riya Barui", role: "Faculty Coordinator", linkedin: "#", about: "Overseeing operations and ensuring a seamless organizational workflow." },
+      { id: "satyajit", name: "Prof. Dr. Satyajit Chakrabarti", role: "Patron", linkedin: "#", about: "Guiding the vision and strategic direction of TEDxIEM Salt Lake." },
+      { id: "prabir", name: "Prof. Dr. Prabir Kumar Das", role: "Curator", linkedin: "#", about: "Curating ideas that spark profound local and global conversations." },
+      { id: "samapika", name: "Prof. Dr. Samapika Das Biswas", role: "Curator", linkedin: "#", about: "Shaping the narrative and curating transformative ideas." },
+      { id: "anubhab", name: "Prof. Dr. Anubhab Ray", role: "Faculty Coordinator", linkedin: "#", about: "Bridging the gap between institutional support and student execution." },
+      { id: "riya", name: "Prof. Riya Barui", role: "Faculty Coordinator", linkedin: "#", about: "Overseeing operations and ensuring a seamless organizational workflow." },
     ]
   },
   {
