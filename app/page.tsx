@@ -1,6 +1,12 @@
 import Image from "next/image";
 import { Calendar, MapPin, ArrowRight } from "lucide-react";
 import Link from "next/link";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Home",
+  description: "TEDx IEM Salt Lake 2026. Join us for a journey exploring 'Loneliness in the era of AI' at IEM Kolkata.",
+};
 
 export default function Home() {
   return (
